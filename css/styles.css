@@ -4,4 +4,49 @@ body {
 
 h1, h2, h3, h4 {
     font-family: 'Bellefair', serif;
+    color: #fff;
+}
+
+.left-div {
+    background-color: #0B0D17;
+    text-align: left;
+    padding: 15% 19% 10% 10%;
+}
+
+#home-page h1 {
+    font-size: 10rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    
+}
+
+#home-page h5 {
+    color: #D0D6F9;
+    font-size: 2rem;
+    letter-spacing: 2px;
+}
+
+.left-div p {
+    color: #D0D6F9;
+    text-align: justify;
+    letter-spacing: 0.5px;
+}
+
+.rigth-div {
+    background-color: #D0D6F9;
+    padding: 15% 10% 10% 20%;
+}
+
+.explore-btn {
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+}
+
+.rigth-div p {
+    text-align: center;
+    color: black;
+    font-size: 2.5rem;
+    letter-spacing: 2px;
 }
